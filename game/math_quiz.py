@@ -1,5 +1,5 @@
 from random import randint
-from action import Action
+from game.action import Action
 
 """
 MathQuiz: provides the quiz questions and answers

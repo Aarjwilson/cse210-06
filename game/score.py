@@ -1,4 +1,4 @@
-from action import Action
+from game.action import Action
 """
 Score : Keeps track of the players score.
 
